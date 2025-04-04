@@ -28,5 +28,4 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 2. 城市选择框输入或者选择城市。输入时可以防抖查询相应城市的列表，并在下拉列表中显示，汉字和拼音都可。
 3. 在下拉列表中显示后选择，将填入查询天气输入框，点击查询，在列表中显示未来7天天气和温度。
 
-
-
+![1743753016456](images/README/1743753016456.png)
